@@ -5,6 +5,6 @@ The markerBasedControl system involves two different part: one is the robot, and
 
 This project is Windows based control platform based on c++
 
-[!image](https://github.com/JasonZhangHkust/MarkerBasedControl/blob/master/MarkerBasedControl/TrackingRobot.mp4_20170408_134951.370.jpg)
+![image](https://github.com/JasonZhangHkust/MarkerBasedControl/blob/master/MarkerBasedControl/TrackingRobot.mp4_20170408_134951.370.jpg)
 
 A video demo https://youtu.be/LwrFipinqo4
