@@ -1,5 +1,5 @@
 # MarkerBasedControl
-A camera based smart car wireless control system
+A camera based wireless smart car control system
 
 The markerBasedControl system involves two different part: one is the robot, and the other is the detection and control system.
 
